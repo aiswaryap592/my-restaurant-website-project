@@ -30,19 +30,19 @@ const delcart=(fid)=>{
 
 }
     return(
-      <div className="container mt-4">
-        <div className="row">
+      <div classname="container mt-4">
+        <div classname="row">
             {allfood.map((food,index)=>{
                 return(
-                    <div className="col-lg-3 m-4"key={index}>
+                    <div classname="col-lg-3 m-4"key={index}>
                        
-                        <div className="row p-3 rounded shadow">
-                            <h5 className="text-center text-secondary">{food.name}</h5>
-                            <img src={food.image}width="250"height="250"className="rounded"/>
-                            <p className="text-center text-danger">
+                        <div classname="row p-3 rounded shadow">
+                            <h5 classname="text-center text-secondary">{food.name}</h5>
+                            <img src={food.image}width="250"height="250"classname="rounded"/>
+                            <p classname="text-center text-danger">
                             {food.price}
                             </p>
-                            <p className="text-center"><button className="btn btn-danger text-center" onClick={delcart.bind(this,food.id)}>Delete</button></p>
+                            <p classname="text-center"><button classname="btn btn-danger text-center" onClick={delcart.bind(this,food.id)}>Delete</button></p>
                             </div>
                     </div>
                 )

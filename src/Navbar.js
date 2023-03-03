@@ -11,10 +11,10 @@ const Navbar=()=>{
     }
     return(
 
-        <div className="navbar">
-        <div className="leftside" id={openLinks ? "open":"close"}>
+        <div classname="navbar">
+        <div classname="leftside" id={openLinks ? "open":"close"}>
            <img src="pizzaLogo.png" />
-           <div className="hiddenlinks">
+           <div classname="hiddenlinks">
            <Link to="/">Home</Link>
        <Link to="/menu">Menu    </Link>
        <Link to="/about">About</Link>
@@ -22,7 +22,7 @@ const Navbar=()=>{
            </div>
 
         </div>
-        <div className="rightside">
+        <div classname="rightside">
        <Link to="/">Home</Link>
        <Link to="/menu">Menu    </Link>
        <Link to="/about">About</Link>
