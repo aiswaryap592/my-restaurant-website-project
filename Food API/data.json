@@ -3,38 +3,38 @@
     {
       "id": 1,
       "name": "PedroTech Pizza",
-      "image": "https://aiswaryap592.github.io/pizza-app/3.jpg",
+      "image": "3.jpg",
       "price": 300
     },
     {
       "id": 2,
       "name": "Dominozz Pizza",
-      "image": "https://your-username.github.io/pizza-app/4.jpg",
+      "image": "4.jpg",
       "price": 400
     },
     {
       "id": 3,
       "name": "Sukku Pizza",
-      "image": "https://aiswaryap592.github.io/pizza-app/5.jpg",
+      "image": "5.jpg",
       "price": 700
     },
     {
       "id": 4,
       "name": "Mikku Pizza",
-      "image":"https://aiswaryap592.github.io/pizza-app/6.jpg", 
+      "image":"6.jpg", 
       "price": 600
     },
     {
       "id": 5,
       "name": "Pedro Pizza",
-      "image": "https://aiswaryap592.github.io/pizza-app/7.jpg",
+      "image": "7.jpg",
       "price": 50
     },
 
     {
       "id": 6,
       "name": "Pillu Pizza",
-      "image":"https://aiswaryap592.github.io/pizza-app/8.jpg", 
+      "image":"8.jpg", 
       "price": 500
     }
   ]
