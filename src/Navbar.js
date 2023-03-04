@@ -14,7 +14,7 @@ const Navbar=()=>{
 
         <div classname="navbar">
         <div classname="leftside" id={openLinks ? "open":"close"}>
-           <img src="pizzaLogo.png" />
+           <img src="./pizzalogo.png" />
            <div classname="hiddenlinks">
            <Link to="/">Home</Link>
        <Link to="/menu">Menu    </Link>
