@@ -15,7 +15,7 @@
     {
       "id": 3,
       "name": "Sukku Pizza",
-      "image": "./public/5.jpg",
+      "image": "../5.jpg",
       "price": 700
     },
     {
