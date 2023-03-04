@@ -42,7 +42,7 @@ const delcart=(fid)=>{
                             <p classname="text-center text-danger">
                             {food.price}
                             </p>
-                            <p classname="text-center"><button classname="btn btn-danger text-center" onClick={delcart.bind(this,food.id)}>Delete</button></p>
+                            <p classname="text-center"><button classname="btn btn-danger text-center" onClick={delcart.bind(this,food.id)}>Remove</button></p>
                             </div>
                     </div>
                 )
