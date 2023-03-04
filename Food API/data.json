@@ -3,38 +3,38 @@
     {
       "id": 1,
       "name": "PedroTech Pizza",
-      "image": "3.jpg",
+      "image": "public/3.jpg",
       "price": 300
     },
     {
       "id": 2,
       "name": "Dominozz Pizza",
-      "image": "4.jpg",
+      "image": "public/4.jpg",
       "price": 400
     },
     {
       "id": 3,
       "name": "Sukku Pizza",
-      "image": "5.jpg",
+      "image": "public/5.jpg",
       "price": 700
     },
     {
       "id": 4,
       "name": "Mikku Pizza",
-      "image":"6.jpg", 
+      "image":"public/6.jpg", 
       "price": 600
     },
     {
       "id": 5,
       "name": "Pedro Pizza",
-      "image": "7.jpg",
+      "image": "public/7.jpg",
       "price": 50
     },
 
     {
       "id": 6,
       "name": "Pillu Pizza",
-      "image":"8.jpg", 
+      "image":"public/8.jpg", 
       "price": 500
     }
   ]
