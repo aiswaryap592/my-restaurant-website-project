@@ -1,0 +1,49 @@
+.contact{
+    display:flex;
+    width:100%;
+    flex-direction:row;
+}
+.contactleftside{
+    width:50%;
+    background-image:url("../public/8.jpg");
+    min-height:400px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.contactrightside{
+    width:50%;
+    min-height:400px;
+    float:left;
+    
+}
+.contactrightside h1{
+    text-align:center;
+    top:20%;
+    font-family:cursive;
+    font-weight:bold;
+    font-size:24px;
+}
+form{
+    left:30%;
+    display:flex;
+    flex-direction:column;
+    top:30%;
+    
+}
+label{
+    left:80%;
+    font-size:20px;
+   transform:translate(80px)
+  
+
+}
+input{
+    width:240px;
+    left:80%;
+    transform:translate(80px)
+}
+textarea{
+    width:240px;
+    left:80%;
+    transform:translate(80px) 
+}
